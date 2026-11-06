@@ -1,11 +1,11 @@
 <div align="center">
 
-#  `C PROGRAMMING PRACTICE JOURNAL` 
+#  `C PROGRAMMING PRACTICE ` 
 
 ![C Language](https://img.shields.io/badge/C-Language-E34F26?style=for-the-badge&logo=c&logoColor=white)
 ![Author](https://img.shields.io/badge/Author-Ravindra%20Yadav-000000?style=for-the-badge&logo=github&logoColor=white)
-![Course](https://img.shields.io/badge/Course-BCA%201st%20Sem-D32F2F?style=for-the-badge&logo=google-classroom&logoColor=white)
-![University](https://img.shields.io/badge/University-PRSU-111111?style=for-the-badge&logo=education&logoColor=white)
+
+
 
 ---
 
