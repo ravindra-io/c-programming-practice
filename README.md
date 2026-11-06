@@ -1,39 +1,53 @@
-# C Programming Practice Journal
+<div align="center">
 
-**Author:** Ravindra Yadav  
-**Course:** BCA 1st Semester  
-**University:** Prayagraj University (PRSU)  
+# 🔴 `C PROGRAMMING PRACTICE JOURNAL` ⚫
 
----
-
-## About This Repository
-
-This is my personal repository for practicing C programming. I started this journey in my first semester to build strong fundamentals. Each file represents a small, focused program covering one specific concept. The goal is consistency and clarity—no clutter, just code that works.
+![C Language](https://img.shields.io/badge/C-Language-E34F26?style=for-the-badge&logo=c&logoColor=white)
+![Author](https://img.shields.io/badge/Author-Ravindra%20Yadav-000000?style=for-the-badge&logo=github&logoColor=white)
+![Course](https://img.shields.io/badge/Course-BCA%201st%20Sem-D32F2F?style=for-the-badge&logo=google-classroom&logoColor=white)
+![University](https://img.shields.io/badge/University-PRSU-111111?style=for-the-badge&logo=education&logoColor=white)
 
 ---
 
-## Topics Covered
+### 🏛️ *Mastering C Fundamentals Step-by-Step*
 
-### 1. Variables and Data Types (Q01 - Q20)
-*   **Folder:** `01_Variables_and_Data_Types/`
-*   **Concepts:** int, float, char, user input (scanf/printf), type casting, swap logic, basic arithmetic operations.
+<p align="center">
+  <a href="#-topics-covered">Topics</a> •
+  <a href="#-folder-structure">Structure</a> •
+  <a href="#-program-index">Program Index</a> •
+  <a href="#-how-to-run">Execution</a> •
+  <a href="#-faq">FAQ</a>
+</p>
 
-### 2. Operators (Q21 - Q30)
-*   **Folder:** `02_Operators/`
-*   **Concepts:** Arithmetic operators, Logical operators (&&, ||), Relational operators, Increment/Decrement (++/--), sizeof operator, Operator Precedence.
-
-### 3. If Else Conditions (Q31 - Q40)
-*   **Folder:** `03_If_Else_Conditions/`
-*   **Concepts:** Even/Odd check, Pass/Fail logic, Grade Calculator, Leap Year checker, Login System simulation, Vowel/Consonant check.
+</div>
 
 ---
 
-## How to Run the Programs
+## 🛑 About The Repository
 
-You need **GCC** installed on your system.
+Maine ye repository tab shuru ki jab maine apne pehle semester me C programming sikhna start kiya tha. Har ek program ek specific concept ko cover karta hai aur top comment me uski detailed explanation di gayi hai.
 
-1. Open your terminal or command prompt.
-2. Navigate to the folder containing the `.c` file.
-3. Compile the code using GCC:
-   ```bash
-   gcc filename.c -o output_name
+<div align="center">
+
+| 👤 Attribute | 📌 Details |
+| :--- | :--- |
+| **👨‍💻 Author** | **Ravindra Yadav** |
+| **🎓 Degree** | **BCA 1st Semester** |
+| **🏫 Institution** | **Prayagraj University (PRSU)** |
+| **⚡ Status** | `Active Development` |
+
+</div>
+
+---
+
+## 🎯 Topics Covered
+
+| 🔖 Range | 📚 Topic | 🧠 Key Concepts |
+| :--- | :--- | :--- |
+| `Q01 - Q20` | **Variables & Data Types** | `int`, `float`, `char`, input/output, type casting, swapping, arithmetic |
+| `Q21 - Q30` | **Operators** | Arithmetic, logical `&&` `||`, relational, increment/decrement `++` `--`, `sizeof` |
+| `Q31 - Q40` | **If-Else Conditions** | Even/Odd, Grade system, Leap year, Vowels check, Login system |
+
+---
+
+## 📁 Folder Structure
