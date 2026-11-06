@@ -6,7 +6,7 @@
 ![Author](https://img.shields.io/badge/Author-Ravindra%20Yadav-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+ 
 ---
 
 ### *A Structured Repository for Mastering C Fundamentals*
