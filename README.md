@@ -128,9 +128,44 @@ q01.exe
 - [ ] Structures & File Handling
 
 ---
+## FAQ
 
+<details>
+<summary><b>Who is this repository for?</b></summary>
+<p>It is specially made for BCA, B.Tech, and any beginner students starting their first semester in C programming.</p>
+</details>
+
+<details>
+<summary><b>Why are the files named with numbers like q01 and q02?</b></summary>
+<p>Numbering keeps all programs in a clean, sequential order so they are easy to find and practice step-by-step.</p>
+</details>
+
+<details>
+<summary><b>How do I run these programs on my computer?</b></summary>
+<p>You can use a GCC compiler in the terminal or use IDEs like VS Code and Dev-C++.</p>
+</details>
+
+<details>
+<summary><b>Are these programs easy for complete beginners?</b></summary>
+<p>Yes, every program is written with simple logic and includes clear comments explaining how it works.</p>
+</details>
+
+<details>
+<summary><b>Can I use or fork this code for my practice or college work?</b></summary>
+<p>Yes, you are completely free to use, copy, or fork this repository for your learning.</p>
+</details>
+
+<details>
+<summary><b>Which software or compiler do I need?</b></summary>
+<p>Any standard C compiler like MinGW (GCC), Dev-C++, or Code::Blocks will work perfectly.</p>
+</details>
+
+<details>
+<summary><b>Where can I check what a specific program does?</b></summary>
+<p>You can read the multiline description provided at the very top of each .c source file.</p>
+</details>
 <div align="center">
 
-![Made With Red&Black](https://img.shields.io/badge/Maintained%20by-Ravindra%20Yadav-D32F2F?style=for-the-badge)
+![Made With Red&Black](https://img.shields.io/badge/By%20by-Ravindra%20Yadav-D32F2F?style=for-the-badge)
 
 </div>
