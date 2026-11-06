@@ -166,6 +166,6 @@ q01.exe
 </details>
 <div align="center">
 
-![Made With Red&Black](https://img.shields.io/badge/%20Created-By-Ravindra%20Yadav-D32F2F?style=for-the-badge)
+![Made With Red&Black](https://img.shields.io/badge/Created%20by-Ravindra%20Yadav-D32F2F?style=for-the-badge)
 
 </div>
