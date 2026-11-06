@@ -1,53 +1,50 @@
 <div align="center">
 
-# 🔴 `C PROGRAMMING PRACTICE JOURNAL` ⚫
+# 💻 C Programming Practice Journal
 
-![C Language](https://img.shields.io/badge/C-Language-E34F26?style=for-the-badge&logo=c&logoColor=white)
-![Author](https://img.shields.io/badge/Author-Ravindra%20Yadav-000000?style=for-the-badge&logo=github&logoColor=white)
-![Course](https://img.shields.io/badge/Course-BCA%201st%20Sem-D32F2F?style=for-the-badge&logo=google-classroom&logoColor=white)
-![University](https://img.shields.io/badge/University-PRSU-111111?style=for-the-badge&logo=education&logoColor=white)
+### *Building Logic, One Concept at a Time.*
 
----
+![C Badge](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Status Badge](https://img.shields.io/badge/Status-Learning%20in%20Progress-FF6B6B?style=for-the-badge)
+![Level Badge](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-4ECDC4?style=for-the-badge)
 
-### 🏛️ *Mastering C Fundamentals Step-by-Step*
+<br>
 
-<p align="center">
-  <a href="#-topics-covered">Topics</a> •
-  <a href="#-folder-structure">Structure</a> •
-  <a href="#-program-index">Program Index</a> •
-  <a href="#-how-to-run">Execution</a> •
-  <a href="#-faq">FAQ</a>
-</p>
+[👤 Ravindra Yadav](https://github.com/ravindra-io) • [🎓 BCA 1st Sem @ PRSU](https://www.prayagrajuniversity.org/) • [📍 Prayagraj, India](https://maps.google.com/?q=Prayagraj)
 
 </div>
 
 ---
 
-## 🛑 About The Repository
+## 🌟 About This Repository
 
-Maine ye repository tab shuru ki jab maine apne pehle semester me C programming sikhna start kiya tha. Har ek program ek specific concept ko cover karta hai aur top comment me uski detailed explanation di gayi hai.
+Welcome to my digital notebook for mastering **C Programming**. 
 
-<div align="center">
+As a first-year BCA student, I believe that strong foundations are built through consistent practice. This repository contains 40+ focused programs, each designed to tackle a specific concept—from basic variables to complex conditional logic. Every file is clean, commented, and ready to compile.
 
-| 👤 Attribute | 📌 Details |
-| :--- | :--- |
-| **👨‍💻 Author** | **Ravindra Yadav** |
-| **🎓 Degree** | **BCA 1st Semester** |
-| **🏫 Institution** | **Prayagraj University (PRSU)** |
-| **⚡ Status** | `Active Development` |
-
-</div>
+> *"Simplicity is the soul of efficiency."* — Austin Freeman
 
 ---
 
-## 🎯 Topics Covered
+## 🗂️ Structure & Progress
 
-| 🔖 Range | 📚 Topic | 🧠 Key Concepts |
-| :--- | :--- | :--- |
-| `Q01 - Q20` | **Variables & Data Types** | `int`, `float`, `char`, input/output, type casting, swapping, arithmetic |
-| `Q21 - Q30` | **Operators** | Arithmetic, logical `&&` `||`, relational, increment/decrement `++` `--`, `sizeof` |
-| `Q31 - Q40` | **If-Else Conditions** | Even/Odd, Grade system, Leap year, Vowels check, Login system |
+The code is organized by topic for easy navigation. Click on the folder names to explore the source code.
+
+| Module | Folder Path | Topics Covered | Status |
+| :--- | :--- | :--- | :---: |
+| **1. Basics** | [`01_Variables_and_Data_Types`](./01_Variables_and_Data_Types/) | `int`, `float`, `char`, Input/Output, Type Casting, Swap Logic, ASCII Values | ✅ Done |
+| **2. Operations** | [`02_Operators`](./02_Operators/) | Arithmetic, Logical (`&&`, `\|\|`), Relational, Increment/Decrement, `sizeof`, Precedence | ✅ Done |
+| **3. Decisions** | [`03_If_Else_Conditions`](./03_If_Else_Conditions/) | Even/Odd, Leap Year, Grading System, Login Simulation, Triangle Types, Vowel Check | ✅ Done |
+| **4. Repetition** | `_Coming Soon_` | Loops (`for`, `while`, `do-while`), Pattern Printing | 🔜 Next |
+| **5. Storage** | `_Planned_` | Arrays (1D, 2D), Strings, Pointers | 📅 Later |
 
 ---
 
-## 📁 Folder Structure
+## ⚡ Quick Start Guide
+
+Ready to run the code? You need **GCC** installed on your system.
+
+### Step 1: Clone the Repo
+```bash
+git clone https://github.com/ravindra-io/c-programming-practice.git
+cd c-programming-practice
