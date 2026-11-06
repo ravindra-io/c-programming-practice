@@ -1,70 +1,22 @@
-# C Programming Practice Journal
+# C Programming Practice Journal 🚀
 
-Author: Ravindra Yadav  
-BCA 1st Semester, Prayagraj University
+👋 Hi, I'm **Ravindra Yadav**, a BCA 1st Semester student from Prayagraj University, India.
 
-This is my personal C programming practice repository.
-I created this while learning C in my first semester.
-Each file is a small program focused on one concept.
+This repository documents my journey of mastering C programming from scratch. Each folder represents a core topic, and every file is a standalone program solving a specific problem. My goal is to build strong fundamentals through consistent practice.
 
----
+## 📂 Repository Structure
 
-## Folder Structure
+| Topic | Folder | Questions Covered | Key Concepts |
+| :--- | :--- | :--- | :--- |
+| **Variables & Data Types** | `01_Variables_and_Data_Types` | Q01 - Q20 | int, float, char, type casting, swap logic, ASCII values |
+| **Operators** | `02_Operators` | Q21 - Q30 | Arithmetic, Logical (&&, \|\|), Relational, Ternary (? :), sizeof |
+| **Conditional Statements** | `03_If_Else_Conditions` | Q31 - Q40 | Even/Odd, Leap Year, Grading System, Login Simulation, Triangle Type |
 
-```
-c-programming-practice/
-├── 01_Variables_and_Data_Types/   (Q01 to Q20)
-├── 02_Operators/                  (Q21 to Q30)
-└── 03_If_Else_Conditions/         (Q31 to Q40)
-```
----
+## 💻 How to Run
 
-## Topics
+Make sure you have **GCC** installed on your system.
 
-**Variables and Data Types (Q01 to Q20)**  
-int, float, char, user input, type casting, swap, arithmetic operations
-
-**Operators (Q21 to Q30)**  
-Arithmetic, logical, relational, increment/decrement, sizeof, precedence
-
-**If Else Conditions (Q31 to Q40)**  
-even/odd, pass/fail, grade calculator, leap year, login system, vowel check
-
----
-
-## How to Run
-
-You need GCC installed. Then open terminal in the folder and run:
-
-```bash
-gcc q01_print_int.c -o q01
-./q01
-```
-
-On Windows replace `./q01` with `q01.exe`
-
----
-
-## FAQ
-
-**Who is this for?**  
-Anyone learning C from scratch. Especially BCA or B.Tech 1st year students.
-
-**How are files named?**  
-Each file starts with its question number so they stay in order.
-
-**Can I use these programs?**  
-Yes, feel free to use them for your own practice.
-
----
-
-## What I plan to add next
-
-- Loops
-- Arrays and Strings
-- Functions
-- Pointers
-
----
-
-Made by Ravindra Yadav while learning C programming.
+1. Navigate to the desired folder in your terminal/command prompt.
+2. Compile the code:
+   ```bash
+   gcc filename.c -o output_name
