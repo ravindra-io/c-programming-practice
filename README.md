@@ -14,7 +14,7 @@
 </div>
 
 ---
-
+ 
 ##  Student Profile
 
 | Attribute | Details |
